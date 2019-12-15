@@ -1,0 +1,196 @@
+
+
+html { }
+
+body {
+	font-family:Tahoma;
+	font-size:35pt;
+	line-height:35pt;
+}
+
+
+.page {
+	width:45cm;
+	height:40cm;
+	padding-top:02.5cm;
+	padding-bottom:02.5cm;
+	align:center;
+	display: flex;
+	justify-content: center; /* align horizontal */
+	align-items: center; /* align vertical */
+	flex-direction: column;
+	text-align:justify;
+	
+}
+
+.pageB {
+	 border:1px dashed black; 
+}
+
+.pleft {
+	width:39cm;
+	padding-left:04cm;
+	padding-right:02cm;
+}
+
+.pright {
+	width:39cm;
+	padding-right:04cm;
+	padding-left:02cm;
+}
+
+img,p{
+	margin:auto;
+	width:100%;
+}
+
+.cover {
+	font-family:"Arial Narrow";
+	text-align:center;
+	letter-spacing:10pt;
+}
+
+.backcover {
+	padding:3cm;
+	width:39cm;
+	height:39cm;
+}
+
+#cover_image {
+	width:09.5cm;
+	height:08.9cm;
+	margin-top:05cm;
+	margin-bottom:05cm;
+}
+
+#glyphs {
+	width:39cm;
+	height:39cm;
+	margin:0;
+}
+
+#title {
+	font-size:120pt;
+	letter-spacing:25pt;
+}
+
+#subtitle {
+	font-size:60pt;
+	margin-bottom:05cm;
+	letter-spacing:35pt;
+}
+
+
+
+#author {
+	font-size:50pt;
+}
+
+#edition {
+	font-size:40pt;
+}
+
+#year {
+	font-size:40pt;
+	margin-bottom:05cm;
+
+}
+
+table {
+	font-size:40pt;
+}
+td {
+	margin:0;
+	padding:0.25cm;
+	justify-content: center; /* align horizontal */
+	align-items: center; /* align vertical */
+	flex-direction: column;
+	text-align:center;
+}
+
+hexagram {
+    width: 05cm;
+	display: block;
+    float: left;
+	margin-top:0.25cm;
+    margin-right: 02cm;
+    margin-bottom: 0.00cm;
+	display: flex;
+	justify-content: center; /* align horizontal */
+	align-items: center; /* align vertical */
+	flex-direction: column;
+
+}
+
+table hexagram {
+	width:03.2cm;
+	float:none;
+	margin:0;
+}
+
+yin, yang {
+	height:20pt;
+	width:05cm;
+	display:block;
+	margin-bottom:0.2cm;
+	margin-top:0.2cm;
+}
+
+table yin, table yang {
+	height:20pt;
+	width:03.2cm;
+	margin-bottom:0.2cm;	
+	margin-bottom:0.2cm;	
+
+}
+
+yin {
+	border-left:01.8cm solid black;
+	border-right:01.8cm solid black;
+	width:01.4cm;
+}
+
+table yin {
+	border-left:01.25cm solid black;
+	border-right:01.25cm solid black;
+	width:0.682cm;
+	
+}
+
+yang {
+	background:black;
+	-webkit-print-color-adjust: exact; 
+}
+
+.interface {
+	position:fixed;
+	top:0;
+	right:0;
+}
+
+input {
+	font: 400 15pt Arial;
+	margin:0;
+	padding:0;
+}
+
+cut{
+	position:absolute;
+	width:0.2cm;
+	height:0.2cm;
+	background:black;
+	-webkit-print-color-adjust: exact; 	
+}
+
+@media print {
+  .interface {
+	  display:none;
+  }
+  html, body {
+    width: 2970mm;
+    height: 2070mm;
+	text-align:center;
+  }
+  @page {size: A4 landscape;}
+}
+
