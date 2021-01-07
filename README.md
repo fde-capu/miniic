@@ -32,6 +32,10 @@ Extras:
 
 ---
 
+[](miniic.jpg)[](miniicbag.jpg)
+
+---
+
 Copyright (c) fde-capu
 
 The software and `.txt` file editing is authoral and I reserve the rights of not letting you profit from it without my consent.
