@@ -32,7 +32,7 @@ Extras:
 
 ---
 
-![](miniic.jpg) ![](miniicbag.jpg)
+![size in mm](miniic.jpg) ![plastic bag](miniicbag.jpg)
 
 ---
 
@@ -40,7 +40,7 @@ Copyright (c) fde-capu
 
 The software and `.txt` file editing is authoral and I reserve the rights of not letting you profit from it without my consent.
 
-Since the text itself is one of the oldest in the human history (if not the oldest) and I have removed any third-authoring interpretations, I believe the text is free to use. English version is extracted from the classical translation by Wilhelm, as found [here](http://www.akirarabelais.com/i/i.html). On the same restricted conditions, the Portuguese translation is from the same English book [translated by editora Pensamento](https://www.grupopensamento.com.br/produto/i-ching-o-livro-das-mutacoes-4866). I make no profit from any of these materials.
+Since the text itself is one of the oldest in the human history (if not the oldest) and I have removed any third-authoring interpretations, I believe the text is free to use. English version is extracted from the classical translation by Wilhelm, as found [here](http://www.akirarabelais.com/i/i.html). On the same restricted conditions, the Portuguese translation is from the same English book [translated by editora Pensamento](https://www.grupopensamento.com.br/produto/i-ching-o-livro-das-mutacoes-4866). I make no profit from these materials. If you think this project should be made private, please let me know as soon as possible.
 
 Cover: Artwork "double happiness" made by me, free to use, but I will be happy if you let me know.
 
