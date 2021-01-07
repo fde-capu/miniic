@@ -32,7 +32,7 @@ Extras:
 
 ---
 
-[](miniic.jpg)[](miniicbag.jpg)
+![](miniic.jpg) ![](miniicbag.jpg)
 
 ---
 
