@@ -1,6 +1,7 @@
 ### miniic
 ##### Mini I-Ching Edition, Possibly Smallest On Earth
-===
+
+========
 
 *miniic* generates a printable duplex page of I Ching, the book of changes.
 
