@@ -1,8 +1,6 @@
 ### miniic
 ##### Mini I-Ching Edition, Possibly Smallest On Earth
-
-========
-
+---
 *miniic* generates a printable duplex page of I Ching, the book of changes.
 
 The edition includes the _origina_ I Ching, that is, only _The Judgement_, _The Image_ and the _Moving Lines_. Interpretations are left for the oracle consultant.
