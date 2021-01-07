@@ -5,7 +5,7 @@
 
 ![size in mm](miniic.jpg)
 
-The edition includes the _origina_ I Ching, that is, only _The Judgement_, _The Image_ and the _Moving Lines_. Interpretations are left for the oracle consultant.
+The edition includes the raw I Ching, for only _The Judgement_, _The Image_ and the _Moving Lines_. Interpretations are left to the oracle consultant.
 
 - Click on "port" or "eng" to alternate languages (portugues or english)
 - *Don't worry* if it looks _huge_ on screen. It is only meant to be printed.
