@@ -38,8 +38,8 @@ Copyright (c) fde-capu
 
 The software and .txt files editing are authoral and I reserve the rights of not letting you profit from it without my consent.
 
-Since the text itself is one of the oldest in the human history (if not the oldest) and I have removed any third party interpretations, I believe the text is free to use. English version is adapted from the [classical translation by Cary F. Baynes](https://press.princeton.edu/books/hardcover/9780691097503/the-i-ching-or-book-of-changes). On the manner, the Portuguese translation is from the same book [translated by Editora Pensamento](https://www.grupopensamento.com.br/produto/i-ching-o-livro-das-mutacoes-4866). I make no profit from these materials. The GitHub page is a portifolio showcase. If you think it should be made private, please let me know as soon as possible.
+Since the text itself is one of the oldest in the human history (if not the oldest) and I have removed any third party interpretations, I believe the text is free to use. English version is adapted from the [classical translation by Cary F. Baynes](https://press.princeton.edu/books/hardcover/9780691097503/the-i-ching-or-book-of-changes). On the manner, the Portuguese translation is from the same book [translated by Editora Pensamento](https://www.grupopensamento.com.br/produto/i-ching-o-livro-das-mutacoes-4866). I make no profit from these materials. The GitHub page is a portifolio showcase, I honestly believe it is fair use. If you think this violates any of your rights, please let me know as soon as possible, and I will torn this whole page down.
 
 Cover: Artwork "double happiness" made by me, free to use, but I will be happy if you let me know.
 
-Back-cover: art by Robin (from [here](https://adtudo.wordpress.com/2008/04/03/)) based on the Chinese Culture of the I Ching, kindly yielded.
+Back-cover: art by Robin (from [here](https://adtudo.wordpress.com/2008/04/03/)) based on the Chinese Culture of the I Ching, permission requested.
