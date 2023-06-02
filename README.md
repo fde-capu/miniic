@@ -3,7 +3,7 @@
 ---
 *miniic* generates a printable duplex page of I Ching, the book of changes.
 
-![size in mm](miniic.jpg)
+![size in mm](miniic-50.jpg)
 
 
 The edition includes the raw I Ching, for only _The Judgement_, _The Image_ and the _Moving Lines_. Interpretations are left to the oracle consultant.
