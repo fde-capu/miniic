@@ -20,14 +20,17 @@ Assembling:
 
 - Sharply cut the pages by the cut marks.
 - Set the pagination sequence in order. Take note the sheets will fold on each other.
+
+Binding with staples\*:
 - Take a loose paper staple and mark two positions, four points of puncture.
 - Take a needle and pierce the sheets at the proper spots.
 - Manually tit two paper staples facing the middle page through the holes and user your fingernails to close them.
 - Use a stiletto to chop off the exceding page alignments.
+\* You may wish instead to manually sew the pages.
 
 Extras:
 
-- Take a good quality plastic bag, a double-sized adehesive tape and a hot knife to make a small impermeable case.
+- Make a case, for example, take a good quality plastic bag, a double-sized adehesive tape and a hot knife to make a small impermeable case.
 - Keep miniic in your wallet.
 
 ---
