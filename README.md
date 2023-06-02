@@ -10,8 +10,6 @@ The edition includes the raw I Ching, for only _The Judgement_, _The Image_ and 
 - Click on "port" or "eng" to alternate languages (portugues or english)
 - *Don't worry* if it looks _huge_ on screen. It is only meant to be printed.
 
-Live demo: [flaviocarrara.com/miniic](http://flaviocarrara.com/miniic)
-
 Printing:
 
 - Print front and back one at the time.
