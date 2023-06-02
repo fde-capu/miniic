@@ -30,7 +30,7 @@ Binding with staples\*:
 - Take a loose paper staple and mark two positions, four points of puncture.
 - Take a needle and pierce the sheets at the proper spots.
 - Manually tit two paper staples facing the middle page through the holes and user your fingernails to close them.
-- Use a stiletto to chop off the exceding page alignments.
+- Use a stiletto to chop off the exceding page alignments.\
 \* You may wish instead to manually sew the pages.
 
 Extras:
