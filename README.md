@@ -3,12 +3,14 @@
 ---
 *miniic* generates a printable duplex page of I Ching, the book of changes.
 
-![size in mm](miniic.jpg)
+![size in mm](miniic.jpg)~{width=200px}
 
 The edition includes the raw I Ching, for only _The Judgement_, _The Image_ and the _Moving Lines_. Interpretations are left to the oracle consultant.
 
 - Click on "port" or "eng" to alternate languages (portugues or english)
 - *Don't worry* if it looks _huge_ on screen. It is only meant to be printed.
+
+Live Demo: [https://fde-capu.github.io/miniic/](https://fde-capu.github.io/miniic/)
 
 Printing:
 
