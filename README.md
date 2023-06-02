@@ -11,7 +11,9 @@ The edition includes the raw I Ching, for only _The Judgement_, _The Image_ and 
 - Click on "port" or "eng" to alternate languages (portugues or english)
 
 
-**Live Demo** *Don't worry* if it looks _huge_ on screen. It is only meant to be printed: [https://fde-capu.github.io/miniic/](https://fde-capu.github.io/miniic/)
+**Live Demo** *Don't worry* if it looks _huge_ on screen. It is only meant to be printed:
+
+[https://fde-capu.github.io/miniic/](https://fde-capu.github.io/miniic/)
 
 Printing:
 
